@@ -10,6 +10,12 @@ namespace ConsoleApp
 	{
 		static void Main(string[] args)
 		{
+			UberMethod();
+		}
+
+		private static void UberMethod()
+		{
+			Console.WriteLine("Woooop!");
 		}
 	}
 }
