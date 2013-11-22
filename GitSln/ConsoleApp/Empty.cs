@@ -9,6 +9,8 @@ namespace ConsoleApp
 {
 	class Empty
 	{
-
+		public Empty()
+		{
+		}
 	}
 }
